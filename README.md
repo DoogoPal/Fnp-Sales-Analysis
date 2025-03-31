@@ -1,4 +1,5 @@
 Sales Analysis Dashboard
+
 Project Overview
 This Sales Analysis Dashboard provides a comprehensive overview of sales performance, customer trends, and revenue insights. The dashboard is designed to help stakeholders make data-driven decisions by visualizing key metrics such as total orders, total revenue, average days between orders, and average customer spend.
 
